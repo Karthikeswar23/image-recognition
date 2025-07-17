@@ -1,0 +1,3 @@
+0 airpods
+1 mobile
+2 shampoo
